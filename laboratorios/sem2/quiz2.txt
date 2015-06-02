@@ -1,0 +1,6 @@
+quiz2.txt
+Modos de programacion en python:
+
+Normal: Se escribe todo en un notepad y luego lo analiza 
+
+Interactivo: Analiza linea por linea 
